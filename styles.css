@@ -1,0 +1,28 @@
+.titulo{
+    text-align: center;
+    color: rgba(24, 17, 17, 0.801);
+    font-size: 50px;
+}
+#parrafo1{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    border-bottom: 0cap;
+    color: #000000;
+}
+.parrafos{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #0c0808;
+}
+.contenedor{
+    text-align: center;
+    border-radius: 30px;
+    border: solid rgb(69, 3, 3) 3px;
+    color: #292525;
+    font-size: 20px;
+}
+body{
+    background-color: beige;
+}
